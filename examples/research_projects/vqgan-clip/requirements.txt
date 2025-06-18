@@ -25,3 +25,4 @@ transformers==4.38.0
 tokenizers==0.13.2
 typing_extensions
 wandb
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
